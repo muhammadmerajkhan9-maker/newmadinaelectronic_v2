@@ -1,0 +1,6 @@
+{
+  "name": "New Madina Electronic - Luxury Casio Horology Boutique Karachi",
+  "description": "Shop genuine Casio watches, MTP, LTP, G-Shock, Edifice, sports watches and Casio calculators at New Madina Electronic in Saddar Karachi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
